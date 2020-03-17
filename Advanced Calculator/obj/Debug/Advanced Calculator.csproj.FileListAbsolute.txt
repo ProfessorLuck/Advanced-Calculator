@@ -1,0 +1,28 @@
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csprojResolveAssemblyReference.cache
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form1.resources
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.GenerateResource.Cache
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+\\fs2\students\2020\jocollins\visual studio 2015\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csprojAssemblyReference.cache
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form1.resources
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.GenerateResource.cache
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.CoreCompileInputs.cache
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+C:\Users\legod\source\repos\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csprojAssemblyReference.cache
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form1.resources
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.GenerateResource.cache
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+Z:\Downloads\Projects\Advanced Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb
